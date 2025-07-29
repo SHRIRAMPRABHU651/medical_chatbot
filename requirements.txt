@@ -1,0 +1,7 @@
+gradio==3.35.2
+langchain==0.0.218
+faiss-cpu==1.7.2
+PyPDF2==3.0.1
+huggingface-hub==0.17.2
+
+sentence-transformers
