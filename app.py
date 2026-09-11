@@ -5,7 +5,7 @@ import PyPDF2
 import io
 
 # Set your Gemini API key
-genai.configure(api_key="your_api_key")
+genai.configure(api_key="AQ.Ab8RN6L9qZcr97WaZ2RDL2U7Zy7T4lvBTdsI1QKaeXo1rIZjHQ")
 
 # Create the model - using flash for fastest responses
 model = genai.GenerativeModel("gemini-1.5-flash")
